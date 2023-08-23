@@ -1,0 +1,35 @@
+* {
+    background-color: floralwhite;
+}
+
+header {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-family: serif;
+    color: black;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    font-size: 70px;
+    margin: 20px;
+}
+
+nav ul li {
+    display: inline;
+    font-family: serif;
+    color: black;
+    font-size: 40px;
+    margin: 110px;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
