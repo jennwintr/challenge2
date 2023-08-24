@@ -53,11 +53,41 @@ nav ul li {
     margin: 110px;
 }
 
-main {
-    /* margin-top: 50px; */
+.projects {
+    background-color: #050612;
+    padding: 20px;
+    height: 450px;
+    
+}
+
+#projectalign {
+    display: flex;
+    margin-top: 20px;
+}
+
+#horiseon {
+    height: 400px;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+}
+
+#sample {
+    clear: both;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+
 }
 
 img {
-    height: 200px;
+    height: 180px;
     width: 300px;
+    margin: 5px;
+    padding: 0px;
 }
